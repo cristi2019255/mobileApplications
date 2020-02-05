@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701312652177",
+    "firebase_url": "https://itprogergeoapp-1.firebaseio.com",
+    "project_id": "itprogergeoapp-1",
+    "storage_bucket": "itprogergeoapp-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701312652177:android:7c68cd4e8322c026084030",
+        "android_client_info": {
+          "package_name": "com.example.geoappmidlle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701312652177-3ns5mlr6gmjtrf7jnuvfqpc40kplbv9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geoappmidlle",
+            "certificate_hash": "2e3a49d4f570719f0eff97259c0ead3427a31601"
+          }
+        },
+        {
+          "client_id": "701312652177-i01dbr87ds3d7t77lgq4ju46bucn1n2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4SXDyJgvDCU_t6mxICRESNmxvd89DGtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701312652177-i01dbr87ds3d7t77lgq4ju46bucn1n2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
